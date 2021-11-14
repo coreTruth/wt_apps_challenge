@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="content_description_image">List Item Image</string>
+    <string name="fail_fetch_book_list">Failed on fetching book list</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="list_item_padding">8dp</dimen>
+    <dimen name="list_item_text_margin_start">16dp</dimen>
+    <dimen name="list_item_title_text_size">16dp</dimen>
+    <dimen name="list_item_title_margin_top">8dp</dimen>
+    <dimen name="list_item_author_text_size">14dp</dimen>
+    <dimen name="list_item_author_margin_top">8dp</dimen>
+    <dimen name="book_image_size">60dp</dimen>
+</resources>
